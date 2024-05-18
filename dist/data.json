@@ -1,0 +1,129 @@
+{
+  "titulo": "Gestión de Proyectos para Obras Residenciales y Comerciales",
+  "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos voluptatum aliquid ad qui molestiae rem?",
+  "content": [
+    {
+      "heading": "Sección 1",
+      "text": "Este es el texto de la sección 1."
+    },
+    {
+      "heading": "Sección 2",
+      "text": "Este es el texto de la sección 2."
+    }
+  ],
+
+  "seccion_1": [
+    {
+      "servicio": "Diseño, control y dirección en proyectos",
+      "icono": "src/assets/icons/plano.png",
+      "descripcion": "Para garantizar una ejecución fluida y exitosa"
+    },
+    {
+      "servicio": "Administración de proyectos",
+      "icono": "src/assets/icons/project-management.png",
+      "descripcion": "Eficiente gestión para éxito y cumplimiento en proyectos constructivos."
+    },
+    {
+      "servicio": "Aplicación de herramientas de diseño",
+      "icono": "src/assets/icons/diseno-grafico.png",
+      "descripcion": "Innovación mediante aplicación estratégica de herramientas de diseño"
+    },
+    {
+      "servicio": "Informes de peritaje",
+      "icono": "src/assets/icons/informe-medico.png",
+      "descripcion": "Informes periciales exhaustivos para análisis y evaluación técnica especializada."
+    },
+    {
+      "servicio": "Análisis y diseño estructural",
+      "icono": "src/assets/icons/estructura-jerarquica.png",
+      "descripcion": "Utilizando herramientas de vanguardia y metodologías, para ganarntizar eficiencia de las construcciones"
+    },
+    {
+      "servicio": "Diseño y calculo de obras hidráulicas",
+      "icono": "src/assets/icons/sistema-de-agua.png",
+      "descripcion": "Cálculos precisos para optimizar el flujo del agua y garantizar su eficiente aprovechamiento."
+    },
+    {
+      "servicio": "Implementación de la norma en nsr10",
+      "icono": "src/assets/icons/subasta.png",
+      "descripcion": "Mantenerse al día con las normas es crucial para garantizar la seguridad de las obras civiles."
+    },
+    {
+      "servicio": "Programación y control de obra",
+      "icono": "src/assets/icons/trabajadores.png",
+      "descripcion": " Columna vertebral de la obra, asegurando la correcta ejecución de las actividades"
+    }
+  ],
+
+  "seccion_2": [
+    {
+      "proyecto": "Proyecto: Hotel La Rivera",
+      "imglink": "https://concepto.de/wp-content/uploads/2021/12/construccion-e1639767911613.jpg",
+      "fecha": "25/06",
+      "tipo": "Hidro",
+      "supervisor": "Ing. Carlos Andrés Pérez",
+      "contratista": "SAC Asociado"
+    },
+    {
+      "proyecto": "Proyecto: Hotel La Rivera",
+      "imglink": "https://www.casasnuevasaqui.com/guia/wp-content/uploads/2021/11/bases-de-una-casa-1024x768.jpg.webp",
+      "fecha": "25/06",
+      "tipo": "Hidro",
+      "supervisor": "Ing. Carlos Andrés Pérez",
+      "contratista": "SAC Asociado"
+    },
+    {
+      "proyecto": "Proyecto: Hotel La Rivera",
+      "imglink": "https://www.aceroform.com.mx/wp-content/uploads/2020/10/banner-construccion-1200x675.jpg",
+      "fecha": "25/06",
+      "tipo": "Hidro",
+      "supervisor": "Ing. Carlos Andrés Pérez",
+      "contratista": "SAC Asociado"
+    }
+  ],
+  "seccion_3": [
+    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolor cumque delectus deserunt consequatur.",
+    "fugiat, numquam similique minima itaque totam ex fuga nisi error inventore! Autem, doloribus iusto beatae sed",
+    "maxime quas quod tempore commodi blanditiis qui expedita quos perferendis officia fugiat sequi, eos animi perspiciatis dolore optio. Non minus sint accusantium et, nostrum veniam ipsum maiores ipsam quas quibusdam."
+  ],
+
+  "seccion_4": {
+    "titulo": "Clientes que aprueban mi trabajo",
+    "opiniones": [
+      {
+        "nombre": "Sebastian A.",
+        "imagen": "https://media.licdn.com/dms/image/D4E03AQF3uLXaO-woqQ/profile-displayphoto-shrink_100_100/0/1671152930696?e=1720656000&v=beta&t=UY-yyiR5L9A4oPxalpjC5WNWM3CkhRGQ7Ap6x03XKfM",
+        "entidad": "Universidad de Pamplona",
+        "opinion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum qui porro eaque doloremque earum soluta dolorum cum natus veniam praesentium"
+      },
+      {
+        "nombre": "Chandosa",
+        "imagen": "https://media.licdn.com/dms/image/D4D03AQF1wtLYNcg-WQ/profile-displayphoto-shrink_200_200/0/1684928807971?e=1720656000&v=beta&t=XgkHUdyTiExjTMprKqCDPVViZ3LoZzVCXZ5HcrP1Kp0",
+        "entidad": "Universidad de Pamplona",
+        "opinion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum qui porro eaque doloremque earum soluta dolorum cum natus veniam praesentium"
+      },
+      {
+        "nombre": "Sebastian A.",
+        "imagen": "https://media.licdn.com/dms/image/D4D03AQHGNAxeyJhZbQ/profile-displayphoto-shrink_200_200/0/1685972237021?e=1720656000&v=beta&t=vWcJn9iyiH4EhW1M8e2JhP6dO8wkm1H7q4tlNLXHfPs",
+        "entidad": "Universidad de Pamplona",
+        "opinion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum qui porro eaque doloremque earum soluta dolorum cum natus veniam praesentium"
+      }
+    ]
+  },
+
+  "seccion_5": {
+    "titulo": "¿Tienes un proyecto en mente?",
+    "descripcion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum minima neque voluptatibus laudantium aliquam sed?",
+    "contacto": [
+      {
+        "icono-mdi":"",
+        "texto":"dfernanda.salcedo24@gmail.com"
+      },
+      {
+        "icono-mdi":"",
+        "texto":"3157313902"
+      }
+    ],
+    "imagen":"/src/assets/contact_image.png"
+  }
+}
